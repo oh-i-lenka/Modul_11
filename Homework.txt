@@ -1,0 +1,6 @@
+You 
+should create 
+method which replace 
+words in the File 
+and returns String with replaced 
+values
